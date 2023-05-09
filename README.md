@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 <!--
 **rlawor95/rlawor95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
