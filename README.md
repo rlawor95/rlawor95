@@ -5,9 +5,9 @@
     <a href="https://hub1234.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://jacksnotion.notion.site/f0b20069be0649d5aa3cce2a1ea254bc">
+  <!--  <a href="https://jacksnotion.notion.site/f0b20069be0649d5aa3cce2a1ea254bc">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
+    </a> !-->
   
 </div><br>
 
