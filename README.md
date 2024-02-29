@@ -1,5 +1,8 @@
 <!--### Hi there 👋<br> !-->
 
+## Youtube
+https://www.youtube.com/channel/UCmVk5uP3kymr2IHhCDi3fgw
+
 ## Blog 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://hub1234.tistory.com">
