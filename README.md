@@ -1,7 +1,8 @@
 <!--### Hi there 👋<br> !-->
 
 ## Youtube
-https://www.youtube.com/channel/UCmVk5uP3kymr2IHhCDi3fgw
+
+<a href="https://www.youtube.com/channel/UCmVk5uP3kymr2IHhCDi3fgw" target="_blank">My YouTube Channel</a>
 
 ## Blog 💻
 <div style="display:flex; flex-direction:row;">
